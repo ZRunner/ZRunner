@@ -7,3 +7,5 @@ You will find here some projects I lead or have led, *often alone* but sometimes
 If you want to **help me** on one of my projects, don't hesitate to contact me! Although I do most of them alone, it is rarely by voluntary choice, and I *appreciate having a little support* in my endeavors. On the other hand, I'm also looking for some *small jobs* to make some money, so if you have this kind of things to offer me, or why not a paid *internship in a company*, contact me via my **email address** (z.runner.mc@gmail.com)!
 
 So, one last fun fact to finish this presentation : I love ducks. Those who know me know why.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRunner&layout=compact&theme=react&hide=TeX)
