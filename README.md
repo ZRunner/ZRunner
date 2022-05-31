@@ -8,4 +8,4 @@ If you want to **help me** on one of my projects, don't hesitate to contact me! 
 
 So, one last fun fact to finish this presentation : I love ducks. Those who know me know why. 🦆
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRunner&layout=compact&theme=react&hide=TeX)
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRunner&layout=compact&theme=react&hide=TeX,C&langs_count=6)
